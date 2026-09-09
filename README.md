@@ -19,6 +19,4 @@ The last time I used Python was during my math final exam. It was a multiple-cho
 
 ## Add a local image
      
-![Path screenshot](image/Capture d’écran 2026-09-07 à 12.22.10.png)
-
-
+![Path screenshot](image/Path_Screenshot.png)
