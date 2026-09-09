@@ -20,3 +20,12 @@ The last time I used Python was during my math final exam. It was a multiple-cho
 ## Add a local image
      
 ![Path screenshot](image/Path_Screenshot.png)
+
+## Concepts and commands learnt 
+
+The concepts I learnt are the following : how to navigate through VSCode, GitHub and GitHub Desktop; how to save my modifications; how to add an image either from the internet or from my own computer; how to create a branch; how to make sure that I am using the right branch. 
+The main commands I learnt are the following : create a branch, commit, push and add an image with Markdown.
+
+## Conclusion
+
+It took me 1 hour to complete this assignement. 
