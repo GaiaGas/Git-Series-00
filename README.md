@@ -4,9 +4,7 @@
 ## Introduction
 
 This repository is used to learn by doing the basics of Git and GitHub.
-
 Before doing the preparatory work for this master's degree, I had never used Git and GitHub. 
-
 I look forward to learn more about Git and GitHub. 
 
 ## Add a pretty image  
@@ -23,8 +21,8 @@ The last time I used Python was during my math final exam. It was a multiple-cho
 
 ## Concepts and commands learnt 
 
-The concepts I learnt are the following : how to navigate through VSCode, GitHub and GitHub Desktop; how to save my modifications; how to add an image either from the internet or from my own computer; how to create a branch; how to make sure that I am using the right branch. 
-The main commands I learnt are the following : create a branch, commit, push and add an image with Markdown.
+Firstly, I will explain the concepts I learnt. I learnt how to navigate through VSCode, GitHub and GitHub DeskTop and how to save my modifications. Moreover, I learnt how to create a branch and how to make sure I am using the right one. Finally, I learnt how to add an image either from the internet or from my own computer. 
+The main commands I learnt are the basic commands such as create a branch, commit, push and add an image with Markdwon. 
 
 ## Conclusion
 
